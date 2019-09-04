@@ -8,6 +8,10 @@
     
 }
 
+.clr{
+    clear: both;
+}
+
 body{
     border:2px black solid;
 }
