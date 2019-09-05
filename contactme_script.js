@@ -36,7 +36,7 @@
                 return false;
             }
         else {
-            onclick="alert('Submission Successful')"
+            document.getElementById("eresult").innerHTML = "SUBMISSION SUCCESSFUL";
             return true;
         }
 
