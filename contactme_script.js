@@ -36,7 +36,7 @@
                 return false;
             }
         else {
-            document.getElementById("eresult").innerHTML = "SUBMISSION SUCCESSFUL";
+        
             return true;
         }
 
